@@ -5,5 +5,5 @@ def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-  puts "What move would you like to make (1-9)?"
+  #puts "What move would you like to make (1-9)?"
 end
